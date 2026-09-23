@@ -11,7 +11,7 @@ int main() {
 
     int shift = 3;
 
-
+ 
     char s1 = ((c1 - 'A' + shift) % 26) + 'A';
     char s2 = ((c2 - 'A' + shift) % 26) + 'A';
     char s3 = ((c3 - 'A' + shift) % 26) + 'A';
